@@ -1,5 +1,3 @@
-# 🚀 [Here](https://u-ma-s.github.io) is my portfolio.
-
 <!--
 **U-ma-s/U-ma-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
